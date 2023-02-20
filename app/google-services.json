@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676814780684",
+    "project_id": "life-cabee",
+    "storage_bucket": "life-cabee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676814780684:android:50290d21d54e7a81a37129",
+        "android_client_info": {
+          "package_name": "com.example.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676814780684-srr5plp6lvqo7g8fbd1747okc4m4em3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8F-0XEUMAdMRkVvm1_tGHxSgqXcuS5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676814780684-srr5plp6lvqo7g8fbd1747okc4m4em3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
